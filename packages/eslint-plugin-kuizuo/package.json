@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kuizuo",
-  "version": "0.27.2",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/kuizuo/eslint-config",
   "main": "./dist/index.cjs",
