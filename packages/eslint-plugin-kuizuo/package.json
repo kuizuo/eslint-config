@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-antfu",
-  "version": "0.27.0",
+  "name": "eslint-plugin-kuizuo",
+  "version": "0.27.2",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/kuizuo/eslint-config",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
