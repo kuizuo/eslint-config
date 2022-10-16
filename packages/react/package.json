@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-react",
-  "version": "0.27.0",
+  "name": "@kuizuo/eslint-config-react",
+  "version": "0.1.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Kuizuo <hi@kuizuo.cn> (https://github.com/kuizuo/)",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/kuizuo/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@antfu/eslint-config-ts": "workspace:*",
+    "@kuizuo/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.31.1",
     "eslint-plugin-react-hooks": "^4.6.0"
   },
