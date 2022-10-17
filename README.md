@@ -8,6 +8,11 @@ Forked from [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ```bash
 pnpm add -D eslint @kuizuo/eslint-config
+
+pnpm add -D @kuizuo/eslint-config-ts # JavaScript and TypeScript
+pnpm add -D @kuizuo/eslint-config-vue # JavaScript, TypeScript and Vue 2/3 (Auto detect)
+pnpm add -D @kuizuo/eslint-config # JavaScript, TypeScript, Vue 2/3 and Prettier, Customize
+pnpm add -D @kuizuo/eslint-config-react # JavaScript, TypeScript and React
 ```
 
 ### Config `.eslintrc`
