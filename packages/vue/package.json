@@ -12,7 +12,8 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": ">=7.4.0"
+    "eslint": ">=7.4.0",
+    "vue": "^2.0.0 || ^3.0.0"
   },
   "dependencies": {
     "@kuizuo/eslint-config-ts": "workspace:*",
